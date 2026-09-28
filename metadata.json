@@ -1,0 +1,8 @@
+{
+  "name": "GUIDE",
+  "description": "Gene Interaction Discovery Engine. Finds interacting partners and prioritizes pathogenic missense variants at interaction interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
