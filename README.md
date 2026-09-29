@@ -1,4 +1,4 @@
-# GUIDE 🧬
+# GUIDE 
 ### Gene Interaction Discovery Engine
 
 **GUIDE** is a full-stack bioinformatics application designed to systematically identify interacting protein partners (physical, functional, and genetic) and prioritize pathogenic missense variants situated at protein-protein interaction interfaces. By integrating human clinical genetics with *Saccharomyces cerevisiae* (yeast) model organism orthology and structural biology, GUIDE enables researchers to pinpoint variants that disrupt molecular interfaces.
